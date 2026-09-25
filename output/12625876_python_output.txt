@@ -1,0 +1,52 @@
+==============================================================================
+   Personal Activity Intelligence Report
+==============================================================================
+Student Name     : Nitish Kapoor
+Registration No. : 12625876
+Course / Section : MCA (P164-NN1) / Section D1P2633
+Data File        : 12625876.xlsx
+Worksheet        : Daily Log
+------------------------------------------------------------------------------
+Recording Period : 13-Aug-2026 to 25-Sep-2026
+Logged Days      : 44 / 44 expected days
+------------------------------------------------------------------------------
+
+1. Activity Data Summary (Daily Averages)
+------------------------------------------------------------------------------
+Expected number of days           : 44
+Valid days recorded               : 44
+Missing days                      : 0
+Invalid / excluded records        : 0
+Average Sleep / day               : 440.00 min/day (~7.33 hrs)
+Average Fitness / day             : 41.14 min/day (~0.69 hrs)
+Average Study / day               : 115.23 min/day (~1.92 hrs)
+Average Coding / day              : 151.14 min/day (~2.52 hrs)
+Average Class / day               : 37.50 min/day (~0.62 hrs)
+Average Other Activities / day    : 157.39 min/day (~2.62 hrs)
+Average Free / Unaccounted Time   : 497.61 min/day (~8.29 hrs)
+------------------------------------------------------------------------------
+
+2. Activity Index Values
+------------------------------------------------------------------------------
+Index Name                       Acronym  Value              Unit / Scale
+------------------------------------------------------------------------------
+Tech Productivity                TPI          151.14        min/day
+Academic Activity                AAI          152.73        min/day
+Physical Activity                PhAI          41.14        min/day
+Sleep & Recovery                 SRI          440.00        min/day
+Activity Balance                 ABI          497.61        min/day
+Time Utilization                 TUI          942.39        min/day
+Experience Index                 EI             3.80        / 5
+Data Continuity Index            DCI          100.00        %
+------------------------------------------------------------------------------
+Personal Activity Index          PAI          294.12        composite score
+==============================================================================
+
+3. Key Correlation Findings
+------------------------------------------------------------------------------
+1. Sleep <-> Energy         : r = +0.2568 (weak positive relationship between Sleep Duration and Energy Level)
+2. Study <-> Satisfaction   : r = +0.4139 (moderate positive relationship between Study Time and Satisfaction Level)
+3. Coding <-> Energy        : r = +0.6107 (moderate positive relationship between Coding Time and Energy Level)
+4. Fitness <-> Energy       : r = +0.3177 (moderate positive relationship between Fitness Time and Energy Level)
+5. Class <-> Free Time      : r = -0.6652 (moderate negative relationship between Class Time and Free Time)
+==============================================================================
